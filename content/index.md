@@ -1,6 +1,15 @@
 ---
-title: Welcome to Quartz
+title: Discovery Journal
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to my discovery journal!
+
+This is a collection of everything I have been learning and doing this semester in ENT 401. 
+
+Here you will find:
+- [[Interviews ]]
+- [[Prototypes]]
+- Book notes and highlights
+- [[Design]] iterations
+- Soul searching questions
+- Obsession over [[details]]
