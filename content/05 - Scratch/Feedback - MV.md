@@ -1,0 +1,11 @@
+Hello! Thank you for your excellent work on this milestone! The above score is a placeholder as I seek some clarification from you about a number of items. If you can update your report addressing these things ASAP (ideally by this weekend) I can update your grade. Please edit your report document at the requested questions using italics or bold text to help indicate the changes, and then upload the revised copy of your report alongside your original report (e.g., keep the original for reference). Also see video notes below. Great work!
+
+(1) Q4: Could please clarify the number of observations that gave you (a)  the willingness to pay numbers and (b) the scale of 1-10 numbers? Can you report the minimums, maximums, and present the responses (e.g., the number of 1s, the number of 2s) in a table or histogram? Right now, a lot seems to be depending on the scale of 1-10 comparisons of the severity of the pain, and these measures are notoriously difficult to rely on. For the internship coordinates, could you similar present the data more quantitatively? The min, max, average, median of the hours spent searching for an internship? We want more than just the "upwards of 40 hours" (the max), we want to know what's typical (the average depth of the pain).
+
+(2) Q4 and Q7: could you please attribute the quotes in the Emotion layer of your customer journey maps to specific interviews? (Don't have to reveal the identity, just want to understand if these are imagined persona quotes or from secondary research or from actual empathy interviews you conducted.)
+
+(3) Q5 and Q6: Please cite your sources for your secondary data estimates of the populations, as well as the source for the 70% of companies significantly impacted by technical debt in Q5b. Also, please cite the source of the figure that there are 5-7 developers per team in Q6.  
+  
+(4) Q5: Specifically, can you explain where 557k companies comes from? Is that a modification of a larger number, or a statistical estimate from a secondary source? Also, where does the 30% figure for the students who fail to get internships come from?
+
+(5) Q6: Can you please clarify why you use the full population of companies (557k) instead of the sample percentage from Q5 (389.9k)?

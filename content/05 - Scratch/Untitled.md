@@ -1,0 +1,1 @@
+python md2html.py --input-dir ~/CM/GARAGE --output-dir ~/CM/test --css-file ~/CM/themes/styles.css
