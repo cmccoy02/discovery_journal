@@ -37,5 +37,7 @@ app level - individual repo level
 
 
 
+## Come Back to Later
 
+Brady mentioned something that illuminated the path forward for this company. Apparently, it is common practice for companies to keep track of something called [[software capitalization]] . Here, leaders manage their developers keeping track of how they spend their time, how many hours are associated to which project, etc. I think this is exactly the kind of data that we need to procure in order to build a solid solution. 
 
